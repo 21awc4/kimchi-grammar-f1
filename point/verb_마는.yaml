@@ -20,6 +20,10 @@ definitions:
         sentence: 사고 싶다마는 돈이 없군.
         translated: I want to buy it but I don't have the money.
         audio_url: 
+      - type: simple
+        sentence: 집에서 쉬겠다더니만 웬일로 나왔니?
+        translated: You said you were going to rest at home, so why did you come out?
+        audio_url: 
 metadata:
   type: noun
 details: |-
