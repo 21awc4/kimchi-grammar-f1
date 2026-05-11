@@ -20,6 +20,14 @@ definitions:
         sentence: 지금쯤이면 고향에 진달래가 활짝 </f>피었으리</f>.
         translated: The azaleas must be in full bloom back home now.
         audio_url: 
+      - type: simple
+        sentence: 그 사람이 그런 짓을 하<f>리라</f>고는 상상도 못했어요.
+        translated: I couldn't even imagine that he would do such a thing.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_사람이_그런_짓을_하리라고는_상상도_못했어요__2025-05-24.mp3
+      - type: simple
+        sentence: 자신은 그녀에게 아주 소중한 친구이<f>리라</f>는 자신감이 있었다.
+        translated: He was confident that she considered him a precious friend.
+        audio_url: https://r2.kimchi-reader.app/grammar/자신은_그녀에게_아주_소중한_친구이리라는_자신감이_있었다__2025-05-24.mp3
   - slug: intention
     name: Intention
     meaning: Expresses the speaker's intention or will to do something. Can be used in pairing with other conjugations or used alone as a verb final ending.
