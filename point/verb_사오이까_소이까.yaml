@@ -1,0 +1,27 @@
+point: 사오이까/소이까
+definitions:
+  - slug: humble-question
+    name: Humble question
+    meaning: Used to ask a question politely and respectfully in the 하소서체 speech level.
+    examples:
+      - type: simple
+        sentence: 이 마을에 그런 사람이 있겠사오이까?
+        translated: Surely there is no such person in this village?
+        audio_url: 
+      - type: simple
+        sentence: 선생께서는 진정 정당하게 이겼소이까?
+        translated: Did you truly win fairly?
+        audio_url: 
+metadata:
+  type: verb
+details: |-
+  # Usage {usage}
+  <f>사오이까</f> is the full original form and 소이까 is the shortform for this structure. 
+  
+  # What is 하소서체? {#what-is-하소서체?}
+
+  <f>하소서체</f> is honorific speech used in archaic Korean; used to extremely respectfully address the listener. To modern
+  Korean speakers this level of speech is perceived as an archaic style used only during the monarchical era.
+  In modern Korean <f>하소서체</f> is functionally used only in literary expressions, and it is considered natural to use only
+  when addressing a deity. You will encounter <f>하소서체</f> in period dramas, traditional literature, the bible, prayers
+  to God, and similar.  :source[https://namu.wiki/w/하소서체]
