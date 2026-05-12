@@ -265,3 +265,5 @@ inheritance:
     children: ["verb_아도_어도_여도", "verb_지"]
   - parent: "후에"
     children: ["noun_에", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "verb_거들랑_걸랑"
+    children: ["verb_거든"]
