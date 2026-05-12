@@ -1,0 +1,19 @@
+point: 다마다
+definitions:
+  - slug: positive-response
+    name: Positive response
+    meaning: Emphasizes a positive response to a question from the other party.
+    examples:
+      - type: simple
+        sentence: 암, 네 말이 맞다마다.
+        translated: Yeah, you’re right.
+        audio_url: 
+      - type: simple
+        sentence: 도와달라 말했는가. 물론일세! 좋다마다! 얼마든지 도와줌세!
+        translated: You asked for help? Of course! That's great! I’ll help you as much as I can!
+        audio_url: 
+metadata:
+  type: verb
+details: |-
+  # Usage {usage}
+  It is worth noting that in rare cases this grammar can show up separated as, for example, 좋다 말다 instead of 좋다마다.
