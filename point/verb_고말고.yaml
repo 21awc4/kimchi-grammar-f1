@@ -2,6 +2,7 @@ point: 고말고
 definitions:
   - slug: positive-response
     name: Positive response
+    english_alternatives: of course
     meaning: Emphasizes a positive response to a question from the other party.
     examples:
       - type: simple
