@@ -1,4 +1,4 @@
-point: 사오이다/사외다/쇠다/소이다
+point: (으)오이다/사오이다
 definitions:
   - slug: humble-statement
     name: Humble statement
@@ -16,11 +16,23 @@ definitions:
         sentence: 우리에겐 우리의 임무가 <f>있사오이다</f>.
         translated: We have a mission to fulfill.
         audio_url: 
+      - type: simple
+        sentence: 웬 낯선 사람이 <f>찾으오이다</f>.
+        translated: There’s a stranger looking for you.
+        audio_url: 
+      - type: simple
+        sentence: 참으로 <f>오랜만이오이다</f>.
+        translated: It’s been quite a while.
+        audio_url: 
+      - type: simple
+        sentence: 나는 오늘 <f>떠나외다</f>.
+        translated: I am leaving today.
+        audio_url: 
 metadata:
   type: verb
 details: |-
   # Usage {usage}
-  <f>사오이다</f> is the full original form and 사외다, 쇠다, and 소이다 are all shortforms for 사오이다. 
+  사오이다 is also used in shortform as one of <f>사외다</f>, <f>쇠다</f>, and <f>소이다</f>. (으)오이다 has only one shortform, <f>(으)외다</f>
   
   # What is 하소서체? {#what-is-하소서체?}
 
