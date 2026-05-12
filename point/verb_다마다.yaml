@@ -2,6 +2,7 @@ point: 다마다
 definitions:
   - slug: positive-response
     name: Positive response
+    english_alternatives: of course
     meaning: Emphasizes a positive response to a question from the other party.
     examples:
       - type: simple
@@ -16,4 +17,6 @@ metadata:
   type: verb
 details: |-
   # Usage {usage}
-  It is worth noting that in rare cases this grammar can show up separated as, for example, 좋다 말다 instead of 좋다마다.
+  It is worth noting that in very rare cases this grammar can show up separated as, for example, 좋다 말다 instead of 좋다마다. If you see something like
+  좋다 말다 then it will likely be something more common such as :grammar[verb_다가] + 말다 to mean "it was almost good...", but it is possible for such a phrase
+  to be this grammar and take on a positive meaning.
