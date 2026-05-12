@@ -265,5 +265,5 @@ inheritance:
     children: ["verb_아도_어도_여도", "verb_지"]
   - parent: "후에"
     children: ["noun_에", "verb_ㄴ_은_는_ㄹ_을"]
-  - parent: "verb_사오이까_소이까"
+  - parent: "verb_으오이까_사오이까_소이까"
     children: ["verb_으오_으옵_사오_사옵_자오_자옵"]
