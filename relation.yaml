@@ -30,6 +30,7 @@ relation:
       - { id: "verb_아서_어서_해서", slug: "reason-or-cause" }
       - { id: "때문에", slug: "reason-or-cause" }
       - { id: "verb_으니까_니까", slug: "reason-or-cause" }
+      - { id: "verb_나니", slug: "reason" }
   - concern:
       - { id: "noun_이야", slug: "copula" }
       - { id: "noun_이다", slug: "copula" }
@@ -109,6 +110,9 @@ relation:
       - { id: "verb_지만", slug: "contrast" }
       - { id: "verb_으나", slug: "although-but" }
       - { id: "verb_ㄴ데_은데_는데", slug: "background-information" }
+  - concern:
+      - { id: "verb_ㄴ데_은데_는데", slug: "background-information" }
+      - { id: "verb_나니", slug: "background-information" }
   - concern:
       - { id: "고_싶다", slug: "desire" }
       - { id: "었으면_좋겠다", slug: "person-wish-or-hope" }
