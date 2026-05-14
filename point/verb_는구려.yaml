@@ -1,4 +1,4 @@
-point: (는)구려
+point: (는)구려/(는)구료
 definitions:
   - slug: 하오체-new-information
     name: 하오체 New information
@@ -9,7 +9,7 @@ definitions:
         translated: Wow, this is a really clean neighborhood.
         audio_url: 
       - type: simple
-        sentence: 그 소식에 참 서운하셨겠구려.
+        sentence: 그 소식에 참 서운하셨겠구료.
         translated: You must have been really disappointed to hear that.
         audio_url: 
       - type: simple
@@ -32,8 +32,9 @@ metadata:
   type: verb
 details: |-
   # Usage {#usage}
-
-  After action verbs :grammar[verb_는구려]{하오체-new-information} takes the form 는구려, but :grammar[verb_는구려]{하오체-polite-command} is used plainly as 구려 without the 는.
+  
+  :grammar[verb_는구려]{하오체-new-information} takes the form 는구려 after action verbs and 구려 after descriptive verbs, while :grammar[verb_는구려]{하오체-polite-command}
+  takes the form 구려 after action verbs and is not used with descriptive verbs. (는)구려 is the correct spelling, but (는)구료 is a common non-standard usage.
   
   # What is 하오체? {#what-is-하오체?}
 
