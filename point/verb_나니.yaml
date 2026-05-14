@@ -14,11 +14,11 @@ definitions:
         audio_url: 
   - slug: reason
     name: Reason
-    meaning: Expresses the first clause is the reason, condition, or basis for the second clause. It has a serious or solemn tone.
+    meaning: Expresses the first clause is the reason, condition, or basis for the second clause and should only be used with action verbs. It has a serious or solemn tone.
     examples:
       - type: simple
-        sentence: 백성이 <f>편안하나니</f> 나라 또한 평화롭도다.
-        translated: When the people are at ease, the nation is at peace.
+        sentence: 네가 진심으로 <f>사과하나니</f> 내가 용서하겠다.
+        translated: Since you're sincerely apologizing, I will forgive you.
         audio_url: 
       - type: simple
         sentence: 모든 준비가 <f>끝났나니</f> 이제 시작하도록 하자.
