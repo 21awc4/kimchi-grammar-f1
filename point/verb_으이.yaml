@@ -1,9 +1,13 @@
-point: (으)이
+point: (으)이/의
 definitions:
   - slug: 하게체-description
     name: 하게체 Description
-    meaning: Used to express an impression or a simple description.
+    meaning: Used to express an impression or a simple description in the 하게체 speech level. Can be shortened from (으)이 to just 의.
     examples:
+      - type: simple
+        sentence: 그것 참 <f>좋의</f>.
+        translated: That's really great.
+        audio_url: 
       - type: simple
         sentence: 요사이 날씨가 꽤 <f>차이</f>.
         translated: The weather is quite cold lately.
@@ -19,7 +23,7 @@ definitions:
       - type: simple
         sentence: <f>용하이</f>, 정말 좋은 생각을 했네.
         translated: That's clever, you really had a great idea.
-        audio_url: 
+        audio_url:       
 metadata:
   type: verb
 details: |-
