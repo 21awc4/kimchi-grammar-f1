@@ -3,7 +3,7 @@ definitions:
   - slug: no-choice-but-to
     name: No Choice But To
     english_alternatives:
-    meaning: Used when there is no other choice but the preceding state/action. This is a colloquial and informal version of :grammar[을_수밖에_없다].
+    meaning: Used when there is no other choice but the preceding state/action. This is an informal version of :grammar[을_수밖에_없다].
     examples:
       - type: simple
         sentence: 어른들이 다 가시니 나도 갈밖에.
