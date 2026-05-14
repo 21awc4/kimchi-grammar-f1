@@ -125,3 +125,6 @@ relation:
   - concern:
       - { id: "(으)ㄹ까 봐", slug: "concern-about-something" }
       - { id: "(으)ㄹ라", slug: "expresses-concern" }
+  - concern:
+      - { id: "verb_을밖에", slug: "no-choice-but-to" }
+      - { id: "을_수밖에_없다", slug: "no-choice-but-to" }
