@@ -132,6 +132,9 @@ relation:
       - { id: "(으)ㄹ까 봐", slug: "concern-about-something" }
       - { id: "(으)ㄹ라", slug: "expresses-concern" }
   - concern:
+      - { id: "verb_을밖에", slug: "no-choice-but-to" }
+      - { id: "을_수밖에_없다", slug: "no-choice-but-to" }
+  - concern:
       - { id: "verb_을꼬_ㄹ꼬", slug: "asking-opinion" }
       - { id: "verb_을까_ㄹ까", slug: "asking-opinion" }
   - concern:
