@@ -21,6 +21,7 @@ relation:
   - concern:
       - { id: "verb_읍시다_ㅂ시다", slug: "suggestion" }
       - { id: "verb_자", slug: "suggestion" }
+      - { id: "verb_자꾸나", slug: "suggestion" }
   - concern:
       - { id: "아어_가지다", slug: "time-order-of-two-actions" }
       - { id: "verb_아서_어서_해서", slug: "sequence-of-events" }
