@@ -1,0 +1,41 @@
+name: (으)세
+definitions:
+  - slug: 하게체-suggestion
+    name: 하게체 Suggestion
+    english_alternatives: let's
+    meaning: A way to express a suggestion to do a certain act together in the 하게체 speech level. It can also show up as (스)ㅂ세 in dialect.
+    examples:
+      - type: simple
+        sentence: 우리 힘껏 일해 보세.
+        translated: Let’s do our best.
+        audio_url: 
+      - type: simple
+        sentence: 이 책을 우리 함께 읽으세.
+        translated: Let's read this book together.
+        audio_url: 
+      - type: simple
+        sentence: 그 일 우리가 맡으세.
+        translated: Let us take care of that.
+        audio_url: 
+      - type: simple
+        sentence:  말로만 사죄해서는 쓸모가 없지. 그대가 바라는 것이라면 무엇이든 들어주도록 합세·
+        translated: My just saying sorry isn't enough. If there's anything you want, let's do that.
+        audio_url: 
+      - type: simple
+        sentence: 문을 닫습세.
+        translated: Let's close the door please.
+        audio_url: 
+metadata:
+  type: verb
+details: |-
+  # What is 하게체? {#what-is-하게체?}
+
+  <f>하게체</f> is used to familiarly address someone without lowering oneself. It can be used to show respect when the other
+  person is of lower social standing but not necessarily young in absolute age, but it is no longer common in the present day.
+
+  You will still hear <f>하게체</f> used in daily conversation but due to its slightly archaic tone it will usually only
+  be used by older people. A young person speaking using <f>하게체</f> will tend to sound quite awkward.
+
+  Like 하오체, <f>하게체</f> is primarily used in historical dramas and other works set in the past. When used in modern times,
+  it is often to portray a dignified character; like a king, a high-ranked noble, or a chill uncle.
+  :source[https://namu.wiki/w/하게체]

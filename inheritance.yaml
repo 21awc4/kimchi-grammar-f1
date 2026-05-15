@@ -269,3 +269,9 @@ inheritance:
     children: ["verb_마는"]
   - parent: "verb_습니다만"
     children: ["verb_마는"]
+  - parent: "(으)리라"
+    children: ["verb_으리"]
+  - parent: "(으)리오"
+    children: ["verb_으리", "verb_으오_오_소"]
+  - parent: "(으)리만치"
+    children: ["verb_으리"]
