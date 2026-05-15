@@ -21,6 +21,7 @@ relation:
   - concern:
       - { id: "verb_읍시다_ㅂ시다", slug: "suggestion" }
       - { id: "verb_자", slug: "suggestion" }
+      - { id: "verb_자꾸나", slug: "suggestion" }
   - concern:
       - { id: "아어_가지다", slug: "time-order-of-two-actions" }
       - { id: "verb_아서_어서_해서", slug: "sequence-of-events" }
@@ -30,6 +31,7 @@ relation:
       - { id: "verb_아서_어서_해서", slug: "reason-or-cause" }
       - { id: "때문에", slug: "reason-or-cause" }
       - { id: "verb_으니까_니까", slug: "reason-or-cause" }
+      - { id: "verb_나니", slug: "reason" }
   - concern:
       - { id: "noun_이야", slug: "copula" }
       - { id: "noun_이다", slug: "copula" }
@@ -110,7 +112,11 @@ relation:
       - { id: "verb_으나", slug: "although-but" }
       - { id: "verb_ㄴ데_은데_는데", slug: "background-information" }
   - concern:
+      - { id: "verb_ㄴ데_은데_는데", slug: "background-information" }
+      - { id: "verb_나니", slug: "background-information" }
+  - concern:
       - { id: "고_싶다", slug: "desire" }
+      - { id: "verb_고프다", slug: "desire" }
       - { id: "었으면_좋겠다", slug: "person-wish-or-hope" }
   - concern:
       - { id: "ㄹ_수_있다", slug: "ability-or-possibility" }
@@ -131,3 +137,19 @@ relation:
   - concern:
       - { id: "verb_을꼬_ㄹ꼬", slug: "wondering" }
       - { id: "verb_을까_ㄹ까", slug: "wondering" }
+  - concern:
+      - { id: "verb_은가_ㄴ가_나", slug: "soft-question" }
+      - { id: "verb_는고_은고", slug: "soft-question" }
+  - concern:
+      - { id: "verb_은가_ㄴ가_나", slug: "pondering" }
+      - { id: "verb_는고_은고", slug: "pondering" }
+  - concern:
+      - { id: "verb_거들랑_걸랑", slug: "conditional" }
+      - { id: "verb_거든", slug: "conditional" }
+  - concern:
+      - { id: "verb_거들랑_걸랑", slug: "informing" }
+      - { id: "verb_거든", slug: "reasoning" }
+  - concern:
+      - { id: "noun_되다", slug: "to-become" }
+      - { id: "noun_받다", slug: "receive-action" }
+      - { id: "noun_당하다", slug: "experience-consequence" }

@@ -1,0 +1,18 @@
+point: 고말고
+definitions:
+  - slug: positive-response
+    name: Positive response
+    english_alternatives: of course
+    meaning: Emphasizes a positive response to a question from the other party.
+    examples:
+      - type: simple
+        sentence: 기쁜 일이고말고.
+        translated: That’s certainly good news.
+        audio_url: 
+      - type: simple
+        sentence: 나야 물론 좋고말고.
+        translated: Of course I'm all for it.
+        audio_url: 
+metadata:
+  type: verb
+details: |-
