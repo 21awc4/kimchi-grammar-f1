@@ -267,3 +267,13 @@ inheritance:
     children: ["noun_에", "verb_ㄴ_은_는_ㄹ_을"]
   - parent: "verb_으오이다_으외다_사오이다_사외다_쇠다_소이다."
     children: ["verb_으오_으옵_사오_사옵_자오_자옵"]
+  - parent: "verb_지만"
+    children: ["verb_마는"]
+  - parent: "verb_습니다만"
+    children: ["verb_마는"]
+  - parent: "(으)리라"
+    children: ["verb_으리"]
+  - parent: "(으)리오"
+    children: ["verb_으리", "verb_으오_오_소"]
+  - parent: "(으)리만치"
+    children: ["verb_으리"]
