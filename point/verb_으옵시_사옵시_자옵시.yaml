@@ -1,0 +1,28 @@
+name: (으)옵시/사옵시/자옵시
+definitions:
+  - slug: humility
+    name: Humility
+    meaning: Used to express humility and additional politeness in the 하소서체 speech level.
+    examples:
+      - type: simple
+        sentence: 부모님의 은혜는 <f>깊으옵시어</f> 갚을 길이 없어라.
+        translated: My parents' favour is so deep I cannot repay it.
+        audio_url: 
+      - type: simple
+        sentence: 제 말씀을 <f>듣자옵시니</f> 놀라셨나이다
+        translated: He was astonished to hear what I had to say.
+        audio_url: 
+      - type: simple
+        sentence: 성주님께서 <f>행차하옵신다</f>.
+        translated: The castellan is visiting.
+        audio_url: 
+metadata:
+  type: verb
+details: |-
+  # What is 하소서체? {#what-is-하소서체?}
+
+  <f>하소서체</f> is honorific speech used in archaic Korean; used to extremely respectfully address the listener. To modern
+  Korean speakers this level of speech is perceived as an archaic style used only during the monarchical era.
+  In modern Korean <f>하소서체</f> is functionally used only in literary expressions, and it is considered natural to use only
+  when addressing a deity. You will encounter <f>하소서체</f> in period dramas, traditional literature, the bible, prayers
+  to God, and similar.  :source[https://namu.wiki/w/하소서체]
