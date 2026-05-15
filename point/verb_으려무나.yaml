@@ -1,9 +1,9 @@
-name: (으)렴 / (으)려무나
+name: (으)렴 / (으)려무나 / (으)려마
 definitions:
   - slug: friendly-command
     name: Friendly Command
     english_alternatives: Please, go ahead and...
-    meaning: Used to give a soft command or suggestion among those who are younger.
+    meaning: Used to give a soft command or suggestion among those who are younger. The extended form also appears as 려므나, however this is not standard korean.
     examples:
       - type: simple
         sentence: 밥 먹<f>으렴</f>.
@@ -18,7 +18,7 @@ definitions:
         translated: Please wait a little longer.
         audio_url: https://r2.kimchi-reader.app/grammar/조금만_더_기다리렴__2025-02-16.mp3
       - type: simple
-        sentence: 천천히 걸<f>으렴</f> 급할 필요 없어.
+        sentence: 천천히 걸<f>으려마</f> 급할 필요 없어.
         translated: Walk slowly; there's no need to rush.
         audio_url: https://r2.kimchi-reader.app/grammar/천천히_걸으렴_급할_필요_없어__2025-02-16.mp3
       - type: simple
@@ -33,6 +33,10 @@ definitions:
         sentence: 조용히 앉<f>으려무나</f> 수업이 곧 시작될 거야.
         translated: Sit quietly, the class will begin soon.
         audio_url: https://r2.kimchi-reader.app/grammar/조용히_앉으려무나_수업이_곧_시작될_거야__2025-02-16.mp3
+      - type: simple
+        sentence: 잘 놀았으니 이제 공부를 열심히 <f>하려므나</f> .
+        translated: You’ve had plenty of fun, so study hard now.
+        audio_url: 
 metadata:
   type: verb
 details: |-
